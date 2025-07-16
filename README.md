@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Tushar <br><br>- 🔭 I’m working as software engineer at Vignan Corp<br>- 📚 I'm currently learning to talk<br>- ⚡ In my free time I try to pitch to clients.</p>
+<p align="left">I'm Tushar <br><br>- 🔭 I’m working as software engineer at Ajna View By Vignan Corp<br>- 📚 I'm currently learning to talk<br>- ⚡ In my free time I try to pitch to clients.</p>
 
 ###
 
